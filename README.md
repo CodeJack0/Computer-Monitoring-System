@@ -16,3 +16,7 @@ A web-based Computer Monitoring System built with PHP, MySQL, HTML, and CSS. It 
 - **Backend**: PHP  
 - **Database**: MySQL  
 - **Server Requirements**: Apache or any server with PHP & MySQL support (e.g., XAMPP)
+
+
+
+> 📝 This project is based on a starter template provided by our professor for educational purposes. I have added CRUD functionality as part of the assignment. All added code and modifications are licensed under the MIT License.
